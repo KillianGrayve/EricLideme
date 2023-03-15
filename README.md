@@ -9,9 +9,32 @@
 eus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricLideme&layout=compact&hide_border=true&title_color=ff0040&text_color=ff0040&bg_color=0d1117" />
 </div>
+  
+  
+<div align="center">
+  
+  ### Main skills:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&logoColor=BE608B&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=4D5A91&labelColor=0D1117)&nbsp; 
+  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
-<div align="center">  
-<a href="https://portfolio-ericlideme.vercel.app/" target="_blank" ?color=ff0040> -> Meu Portfólio <- </a>
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+  </div>
+  
+  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EricLideme}/count.svg" /></p> 
+<br></div>
+
+<div align="center">
+  <a href = "https://portfolio-ericlideme.vercel.app/"> <img src="https://img.shields.io/badge/-My Porfolio-%23333?style=for-the-badge&logoColor=white"   target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eric-lideme-515417245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0040&size=20&center=true&vCenter=true&width=1000&lines=+My+Portfolio;Click+here;)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0040&height=130&section=footer"/>
+
