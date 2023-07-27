@@ -30,10 +30,10 @@ eus Maia Alvarez github stats" />
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EricLideme}/count.svg" /></p> 
 <br></div>
 
-<div align="center">
-  <a href = "https://portfolio-ericlideme.vercel.app/"> <img src="https://img.shields.io/badge/-My Porfolio-%23333?style=for-the-badge&logoColor=white"   target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eric-lideme-515417245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
+<!-- <div align="center">
+<!--   <a href = "https://portfolio-ericlideme.vercel.app/"> <img src="https://img.shields.io/badge/-My Porfolio-%23333?style=for-the-badge&logoColor=white"   target="_blank"><!-- </a>
+<!--   <a href="https://www.linkedin.com/in/eric-lideme-515417245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-<!-- badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<!-- </div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0040&height=130&section=footer"/>
 
