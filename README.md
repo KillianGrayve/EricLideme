@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=818181&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name's+KillianGrayve;I+from+Brasil,+SP;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EricLideme&show_icons=true&count_private=true&hide_border=true&title_color=ff0040&icon_color=818181&text_color=818181&bg_color=0d1117" alt="Math![Uploading favicon-16x16.png…]()
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KillianGrayve&show_icons=true&count_private=true&hide_border=true&title_color=ff0040&icon_color=818181&text_color=818181&bg_color=0d1117" alt="Math![Uploading favicon-16x16.png…]()
 eus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricLideme&layout=compact&hide_border=true&title_color=ff0040&text_color=818181&bg_color=0d1117" />
 </div>
